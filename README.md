@@ -1,9 +1,5 @@
 # 📜 e-Bhruhat Trayi Exploration by PraKul
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://streamlit.io)
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 **Advanced AI-assisted exploration of the three major classical texts of Āyurveda**
 
 > *"यत्र विद्या तत्र मुक्तिः"* — Where there is knowledge, there is liberation.
