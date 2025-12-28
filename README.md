@@ -140,16 +140,11 @@ This application represents a technological contribution to making classical Āy
 
 ---
 
-## 📞 Support
-
-If you encounter any issues or have suggestions, please [open an issue](https://github.com/yourusername/e-bhruhat-trayi-exploration/issues) on GitHub.
-
----
 
 <p align="center">
   <strong>Made with ❤️ for the Āyurvedic Community</strong>
 </p>
 
 <p align="center">
-  <em>Version 20.1 | © 2024 Prof. (Dr.) Prasanna Kulkarni</em>
+  <em>Version 20.1 | © 2025 Prof. (Dr.) Prasanna Kulkarni</em>
 </p>
